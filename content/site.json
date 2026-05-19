@@ -1,0 +1,283 @@
+{
+  "version": 1,
+  "site": {
+    "name": "Koren Academy",
+    "route": "/",
+    "canonicalUrl": "https://korenacademy.com.au/"
+  },
+  "seo": {
+    "title": "Koren Academy | Maths and Physics Tutoring Sydney",
+    "description": "Koren Academy provides small group and private tutoring for Years 8 to 12, with a focus on HSC Mathematics and Physics, understanding, confidence and active thinking.",
+    "ogTitle": "Koren Academy | Maths and Physics Tutoring Sydney",
+    "ogDescription": "Small group and private tutoring for Years 8 to 12, with HSC focused support in Mathematics and Physics.",
+    "twitterTitle": "Koren Academy | Maths and Physics Tutoring Sydney",
+    "twitterDescription": "Small group and private tutoring for Years 8 to 12, with HSC focused support in Mathematics and Physics."
+  },
+  "sections": [
+    {
+      "id": "homepage.hero",
+      "type": "hero",
+      "label": "Homepage hero",
+      "visible": true,
+      "locked": true,
+      "order": 1,
+      "props": {
+        "eyebrow": "Sydney Maths and Physics Tutoring",
+        "title": "Understand.   Not memorise.",
+        "lead": "Small group and private tutoring for Years 8 to 12, with HSC focused support in Mathematics and Physics. Taught by high ATAR tutors who help students discover where concepts come from, think deeply and build real confidence.",
+        "primaryCtaLabel": "Book a free trial lesson",
+        "primaryCtaHref": "#enquiry-form",
+        "secondaryCtaLabel": "Portal access",
+        "secondaryCtaHref": "/portal",
+        "tertiaryCtaLabel": "View pricing",
+        "tertiaryCtaHref": "#pricing",
+        "microcopy": "No pressure, no overpromising. Tell us about the student and we will recommend a suitable next step.",
+        "cardTitle": "Understanding first. Confidence next.",
+        "quickFacts": [
+          {
+            "label": "Subjects",
+            "text": "Maths Advanced, Extension 1, Extension 2 and Physics"
+          },
+          {
+            "label": "Years",
+            "text": "Years 8 to 12, with HSC focused support"
+          },
+          {
+            "label": "Classes",
+            "text": "Small groups capped at 5, plus private tutoring"
+          },
+          {
+            "label": "Lessons",
+            "text": "2 hours and 15 minutes with quiz, theory and exam style practice"
+          },
+          {
+            "label": "Price",
+            "text": "$100 per small group lesson, current rate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "homepage.trust",
+      "type": "trust-strip",
+      "label": "Trust strip",
+      "visible": true,
+      "locked": false,
+      "order": 2,
+      "props": {
+        "items": [
+          "Small groups capped at 5",
+          "Recent high ATAR tutors",
+          "Normanhurst Boys graduates",
+          "Weekly booklets and quizzes",
+          "WWCC verified tutors"
+        ]
+      }
+    },
+    {
+      "id": "homepage.about",
+      "type": "content-section",
+      "label": "Why Koren Academy",
+      "visible": true,
+      "locked": false,
+      "order": 3,
+      "props": {
+        "eyebrow": "Why Koren Academy",
+        "title": "A calmer, deeper way to learn Maths and Physics.",
+        "lead": "Koren Academy helps students truly understand Maths and Physics, not just memorise formulas. Students are guided to ask questions, test ideas, explain their reasoning and discover the logic behind each concept.",
+        "ctaLabel": "See how lessons work",
+        "ctaHref": "#lessons"
+      }
+    },
+    {
+      "id": "homepage.subjects",
+      "type": "card-grid",
+      "label": "Subjects",
+      "visible": true,
+      "locked": false,
+      "order": 4,
+      "props": {
+        "eyebrow": "Subjects",
+        "title": "Focused support for senior Maths and Physics.",
+        "lead": "Tutoring is available for students who want the content to feel clearer, more connected and less dependent on memorised formulas.",
+        "items": [
+          {
+            "id": "mathematics-advanced",
+            "title": "Mathematics Advanced",
+            "text": "For students building strong foundations in senior Mathematics, problem solving and exam style reasoning."
+          },
+          {
+            "id": "mathematics-extension-1",
+            "title": "Mathematics Extension 1",
+            "text": "For students ready to think more deeply, strengthen technique and approach harder questions with confidence."
+          },
+          {
+            "id": "mathematics-extension-2",
+            "title": "Mathematics Extension 2",
+            "text": "For students tackling advanced mathematical ideas and wanting careful explanation, challenge and structure."
+          },
+          {
+            "id": "physics",
+            "title": "Physics",
+            "text": "For students who want to understand the principles behind formulas, diagrams, models and HSC style questions."
+          }
+        ]
+      }
+    },
+    {
+      "id": "homepage.lessons",
+      "type": "card-grid",
+      "label": "Lesson structure",
+      "visible": true,
+      "locked": false,
+      "order": 5,
+      "props": {
+        "eyebrow": "Lesson structure",
+        "title": "A clear rhythm, built around active thinking.",
+        "lead": "Each lesson runs for 2 hours and 15 minutes. Students revise, review mistakes, learn theory, work through examples and practise exam style questions."
+      }
+    },
+    {
+      "id": "homepage.pricing",
+      "type": "pricing",
+      "label": "Pricing",
+      "visible": true,
+      "locked": false,
+      "order": 6,
+      "props": {
+        "eyebrow": "Pricing",
+        "title": "Clear pricing, small classes and structured support.",
+        "lead": "Each enrolment includes structured lessons, weekly resources, quizzes, exam style practice, homework and parent updates.",
+        "items": [
+          {
+            "id": "small-group",
+            "label": "Current rate",
+            "title": "Small group lesson",
+            "price": "$100",
+            "text": "Per 2 hour and 15 minute lesson. Small groups require a minimum of 3 students and are capped at 5 students."
+          },
+          {
+            "id": "hourly-rate",
+            "label": "Equivalent rate",
+            "title": "Hourly rate",
+            "price": "$50",
+            "text": "The current lesson price works out to $50 per hour."
+          },
+          {
+            "id": "term-pricing",
+            "label": "Term option",
+            "title": "Term pricing",
+            "price": "$900",
+            "text": "For a 9 week term. A 10 week term is $999 after the first term."
+          }
+        ],
+        "note": "A 5 percent sibling discount may apply. Referral rewards are provided as tutoring credit and applied to a future invoice. Availability depends on subject, year level and suitable class fit.",
+        "ctaLabel": "Ask about availability",
+        "ctaHref": "#enquiry-form"
+      }
+    },
+    {
+      "id": "homepage.tutors",
+      "type": "profiles",
+      "label": "Tutors",
+      "visible": true,
+      "locked": false,
+      "order": 7,
+      "props": {
+        "eyebrow": "Tutors",
+        "title": "Strong results, recent HSC experience and clear explanation.",
+        "lead": "Our tutors understand the current HSC experience because they recently went through it themselves. They teach with care, structure and a focus on understanding.",
+        "items": [
+          {
+            "id": "rishon-koren",
+            "name": "Rishon Koren",
+            "bio": "Rishon teaches Mathematics through questions, discovery and careful problem solving. His lessons help students understand the logic behind each method, not just memorise steps."
+          },
+          {
+            "id": "jacob-makmur",
+            "name": "Jacob Makmur",
+            "bio": "Jacob teaches Physics by helping students connect formulas to the ideas behind them, so they can approach questions with clearer reasoning and greater confidence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "homepage.parents",
+      "type": "trust-panel",
+      "label": "Parent information",
+      "visible": true,
+      "locked": false,
+      "order": 8,
+      "props": {
+        "eyebrow": "For parents",
+        "title": "A structured and safe learning environment.",
+        "lead": "Parents should know that their child is learning in an environment that is organised, respectful and student focused. Koren Academy keeps classes small, tracks attendance and provides regular updates on student progress."
+      }
+    },
+    {
+      "id": "homepage.referral",
+      "type": "content-section",
+      "label": "Referral programme",
+      "visible": true,
+      "locked": false,
+      "order": 9,
+      "props": {
+        "eyebrow": "Referral Programme",
+        "title": "A simple thank you for referring another family.",
+        "lead": "Families who refer another student to Koren Academy may receive tutoring credit when the referred student enrols. Referral credit is applied to a future invoice and can help reduce the cost of ongoing lessons.",
+        "ctaLabel": "Ask about referrals",
+        "ctaHref": "#enquiry-form"
+      }
+    },
+    {
+      "id": "homepage.safety",
+      "type": "content-section",
+      "label": "Child safety",
+      "visible": true,
+      "locked": false,
+      "order": 10,
+      "props": {
+        "eyebrow": "Child Safety",
+        "title": "Safe, respectful and supportive tutoring.",
+        "lead": "Koren Academy is committed to providing a safe, respectful and supportive environment for all students. Every student has the right to feel safe, heard and treated with dignity during all learning activities."
+      }
+    },
+    {
+      "id": "homepage.cta",
+      "type": "cta",
+      "label": "Enquiry CTA",
+      "visible": true,
+      "locked": false,
+      "order": 11,
+      "props": {
+        "title": "Ready to help Maths and Physics make sense?",
+        "lead": "Submit an expression of interest and tell us about the student, their year level, subject, school and goals. We will contact you about suitable class options and availability.",
+        "primaryCtaLabel": "Submit expression of interest",
+        "primaryCtaHref": "#enquiry-form",
+        "secondaryCtaLabel": "Join the waitlist",
+        "secondaryCtaHref": "#enquiry-form"
+      }
+    },
+    {
+      "id": "homepage.contact",
+      "type": "contact",
+      "label": "Contact and enquiry form",
+      "visible": true,
+      "locked": true,
+      "order": 12,
+      "props": {
+        "eyebrow": "Contact",
+        "title": "Enquire about a free trial lesson.",
+        "lead": "Use the enquiry form or contact Koren Academy directly. We will help you find the most suitable option based on subject, year level and availability.",
+        "email": "contact.korenacademy@gmail.com",
+        "instagram": "https://www.instagram.com/korenacademy/",
+        "facebook": "https://www.facebook.com/korenacademy/",
+        "formTitle": "Quick Enquiry Form",
+        "formIntro": "Tell us the basics and this page will send the enquiry details securely to Koren Academy.",
+        "submitLabel": "Send enquiry details",
+        "successMessage": "Great, your enquiry details are ready. We will be in contact with you soon.",
+        "errorMessage": "Sorry, the enquiry could not be sent. Please try again or contact us directly."
+      }
+    }
+  ]
+}
